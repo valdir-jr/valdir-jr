@@ -10,11 +10,11 @@
 <p align="left">
   💻 Linguagens: <strong>
   <br> - Python
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="1000px" max-width="1000px" width="400px" align="right" alt="Computador iuriCode">
   <br> - SQL 
   <br> - SAS
   </strong>
 </p>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="1000px" max-width="1000px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left">
   💼 Ferramentas: <strong>
