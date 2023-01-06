@@ -1,18 +1,31 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0d30bc&height=120&section=header"/>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
+```diff
++ Data Engineer / Data Analyst
+```
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Formando em Ciências da Computação pela Universidade Anhembi Morumbi, atuo na área de Planejamento e Inteligência Comercial como, atuando Analista de Dados Junior com as principais ferramentas do mercado, sendo elas, AWS, Python, SQL, Power BI, SAS Enterprise Guide.<br>
+  <br>Dedico meu tempo livre para os estudos e leitura, sempre buscando o meu desenvolvimento pessoal.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
+  💻 Linguagens: <strong>
+  <br> - Python
+  <br> - SQL 
+  <br> - SAS
+  </strong>
 </p>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="1000px" max-width="1000px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left">
-  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
+  💼 Ferramentas: <strong>
+  <br> - AWS
+  <br> - Pandas 
+  <br> - PySpark
+  <br> - Apache Airflow
+  <br> - Git
+  <br> - Power BI 
+  <br> - SAS Enterprise Guide
+  </strong>
 </p>
 
 <p align="left">
