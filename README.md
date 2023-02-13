@@ -29,7 +29,7 @@
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Aqui vai minhas redes para entrar em contato comigo: ⤵️
 </p>
 
 <p align="left">
