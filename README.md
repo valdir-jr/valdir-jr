@@ -3,7 +3,7 @@
 + Data Engineer / Data Analyst
 ```
 <p align="left"> 
-  Formando em Ciências da Computação pela Universidade Anhembi Morumbi, atuo na área de Planejamento e Inteligência Comercial como, atuando Analista de Dados Junior com as principais ferramentas do mercado, sendo elas, AWS, Python, SQL, Power BI, SAS Enterprise Guide.<br>
+  Formando em Ciências da Computação pela Universidade Anhembi Morumbi com atuação atual como Engenheiro de Dados, utilizo as principais ferramentas do mercado, sendo elas, Python, PySpark, Apache AirFlow, AWS, SQL, Power BI, SAS Enterprise Guide e Excel.<br>
   <br>Dedico meu tempo livre para os estudos e leitura, sempre buscando o meu desenvolvimento pessoal.
 </p>
 
